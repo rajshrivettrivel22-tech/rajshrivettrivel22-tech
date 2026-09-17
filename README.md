@@ -19,6 +19,6 @@ Python, Machine Learning, NumPy, Pandas, Matplotlib, Scikit-learn
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- GitHub
-- Portfolio
+[LinkedIn](https://www.linkedin.com/in/rajshri-vetrivel/)
+[GitHub](https://github.com/rajshrivettrivel22-tech)
+[Portfolio](https://github.com/rajshrivettrivel22-tech)
