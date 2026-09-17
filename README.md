@@ -1,6 +1,6 @@
 # Hi, I'm Rajshri Vettrivel 👋
 
-### Aspiring AI Developer | Python & Machine Learning
+### Aspiring AI Developer | Python | Machine Learning |  
 
 I'm a B.Tech Information Technology student passionate about Python and Machine Learning. Currently, I'm expanding my knowledge by learning Deep Learning and building practical AI projects.
 
